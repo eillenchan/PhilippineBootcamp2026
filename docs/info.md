@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## PH BOOTCAMP
 ## How it works
 
-Explain how your project works
+Explain how your project works PH BOOTCAMP 2026 
 
 ## How to test
 
